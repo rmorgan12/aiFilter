@@ -1,0 +1,9 @@
+.brick-container {
+	height: 100vh;
+  background-color: gray;
+}
+
+.custom-btn {
+    width: calc(20% + 20px); /* Adjust the width as needed */
+    margin-left: 10px; /* Adjust the margin as needed */
+}
